@@ -1,0 +1,46 @@
+{
+  "item": {
+    "id": "979839808745",
+    "restype": "watchface",
+    "name": "edc光轨",
+    "description": "两张圆盘，一段流动的时间。小时和分钟化作盘面，在轨道与机械细节之间更替；白色透明质感搭配克制的工业风格，让读时间多一点仪式感。",
+    "preview": [
+      "media/01-分钟更新.webp",
+      "media/03-轻触旋转.webp",
+      "media/02-沿轨换盘.webp",
+      "media/04-重力响应.webp"
+    ],
+    "icon": "media/光轨.png",
+    "cover": "media/exec-d3261b26-d523-44a6-95d2-dbfd326b9948.png",
+    "author": [
+      {
+        "name": "914173667",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "0.9.0",
+      "file_name": "downloads/光轨.bin",
+      "versionCode": 2304
+    },
+    "xmb10nfc": {
+      "version": "0.9.0",
+      "file_name": "downloads/光轨.bin",
+      "versionCode": 2304
+    },
+    "xmb11": {
+      "version": "0.9.0",
+      "file_name": "downloads/光轨.bin",
+      "versionCode": 2304
+    },
+    "xmb11nfc": {
+      "version": "0.9.0",
+      "file_name": "downloads/光轨.bin",
+      "versionCode": 2304
+    }
+  },
+  "ext": {}
+}
